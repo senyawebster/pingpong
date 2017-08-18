@@ -32,8 +32,5 @@ $(document).ready(function(){
     for (i = 0; i < items.length; i++) {
       $("ul#resultsList").append(items[i]);
     }
-    // items.forEach(function(item) {
-    //   $("ul#resultsList").append(item);
-    // });
   });
 });
