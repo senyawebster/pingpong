@@ -1,5 +1,6 @@
 body {
   background: linear-gradient(to right, #00b09b, #96c93d);
+  text-align: center;
 }
 
 .well {
@@ -8,10 +9,15 @@ body {
 }
 
 .jumbotron {
-  background-color: #7303c0;
+  background-color: #1203c0;
   opacity: .7;
 }
 
 .btn {
   opacity: 1;
+}
+
+img {
+  text-align: right;
+  height: 350px;
 }
